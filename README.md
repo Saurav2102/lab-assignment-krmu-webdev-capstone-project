@@ -7,8 +7,6 @@ This project is the front-end interface for a Food Delivery Service Landing Page
 Core Technical Concepts
 This project uses foundational web development techniques as required for the course:
 
-Semantic Structure: We used specific HTML5 tags like <header>, <main>, <section>, <footer>, <nav>, and <article> to structure the content logically.
-
 Layout Techniques:
 
 Flexbox: Used for aligning items in one dimension, primarily for the Header, Footer, and the Promo Offers section.
