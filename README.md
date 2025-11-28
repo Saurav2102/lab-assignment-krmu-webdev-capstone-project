@@ -1,5 +1,7 @@
 Foodie: Responsive Food Delivery UI
+
 Project Overview
+
 This project is the front-end interface for a Food Delivery Service Landing Page (named Foodie). The goal was to build a fully responsive static website using only HTML5 and CSS3, demonstrating core web development concepts like semantic structure and modern layout.
 
 Core Technical Concepts
